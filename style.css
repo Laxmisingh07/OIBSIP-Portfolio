@@ -1,0 +1,42 @@
+body{
+margin:0;
+font-family:Arial;
+text-align:center;
+background:#f2f2f2;
+}
+
+header{
+background:#d51692;
+color:white;
+padding:60px 20px;
+}
+
+.btn{
+background:white;
+color:#cf3494;
+padding:10px 20px;
+text-decoration:none;
+border-radius:20px;
+}
+
+section{
+padding:40px;
+background:white;
+margin:20px;
+border-radius:10px;
+}
+
+ul{
+list-style:none;
+padding:0;
+}
+
+li{
+padding:8px;
+}
+
+footer{
+background:rgb(23, 15, 21);
+color:white;
+padding:15px;
+}
